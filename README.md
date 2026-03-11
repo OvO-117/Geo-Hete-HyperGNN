@@ -1,5 +1,5 @@
 ## Geo-Hete-HyperGNN
-Geo-Hete-HyperGNN: Novo Molecular Hypergraph Representation Learning strategy
+Geo-Hete-HyperGNN: A prior-free and universal Molecular Hypergraph Representation Learning strategy
 
 
 ### 🛠️ Environment requirement
@@ -11,3 +11,7 @@ Geo-Hete-HyperGNN: Novo Molecular Hypergraph Representation Learning strategy
 - **rdkit**: 2025.3.6
 - **torch_geometric**:2.5.1
 - detailed in requirement.txt
+
+### run
+```bash
+python main.py
