@@ -26,7 +26,7 @@ Geo-Hete-HyperGNN: A prior-free and universal Molecular Hypergraph Representatio
 Supported datasets: `clintox`, `bbbp`, `tox21`, `toxcast`, `bace`
 
 ```bash
-python main_class.py|
+python main_class.py 
 ```
 
 ### Run regression task
