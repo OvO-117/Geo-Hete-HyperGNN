@@ -10,4 +10,5 @@ Geo-Hete-HyperGNN: Novo Molecular Hypergraph Representation Learning strategy
 - **networkx**: 3.4.2
 - **rdkit**: 2025.3.6
 - **torch_geometric**:2.5.1
+- 
 detailed in requirement.txt
