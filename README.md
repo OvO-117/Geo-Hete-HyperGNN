@@ -7,6 +7,9 @@ Geo-Hete-HyperGNN: Novo Molecular Hypergraph Representation Learning strategy
 
 ### 🛠️ 环境要求
 
-- **Python**: 建议版本 3.8 - 3.10
-- **CUDA**: 11.8 (根据 `cu118` 版本推断)
-- **PyTorch**: 2.1.1
+- **Python**:3.10.19
+- **CUDA**: 11.8 
+- **PyTorch**:2.1.1+cu118
+- **networkx**: 3.4.2
+- **rdkit**: 2025.3.6
+- **torch_geometric**:2.5.1
