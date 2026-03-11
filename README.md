@@ -22,11 +22,15 @@ Geo-Hete-HyperGNN: A prior-free and universal Molecular Hypergraph Representatio
 链接: https://pan.baidu.com/s/1LVYfsF6Uz2tLFQIVP1qO-w?pwd=g45i 提取码: g45i 
 --来自百度网盘超级会员v4的分享
 
-```markdown
-## 运行指令
+### Run class task
+Supported datasets: `clintox`, `bbbp`, `tox21`, `toxcast`, `bace`
 
-| 任务类型 | 支持数据集 | 运行命令 |
-|---------|-----------|---------|
-| 分类 | clintox, bbbp, tox21, toxcast, bace | `python main_class.py` |
-| 回归 | esol, lipo, freesolv | `python main_regression.py` |
+```bash
+python main_class.py|
+```
 
+### Run regression task
+Supported datasets: esol, lipo, freesol
+```bash
+python main_regression.py
+```
